@@ -2,7 +2,7 @@
 Follow instructions [here](https://reactnative.dev/docs/environment-setup)
 
 # To run locally
-- Open /AudiofilerMobile/android in Android Studio
+- Open /audiofiler-mobile/android in Android Studio
 - In two separate terminals, run these commands
 ```
 npx react-native start
